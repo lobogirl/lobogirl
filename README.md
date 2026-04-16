@@ -7,7 +7,7 @@
 <p align="center"> 
   ⠀𓏲⠀solar⠀. . .
 ⠀any⠀⏔⠀straight
-⠀⠀15⠀𝜗𓏲⠀pt
+⠀⠀15+⠀𝜗𓏲⠀pt
 ⠀⠀⠀artist && geek⠀( ´ཀ` )</p>
 
 
