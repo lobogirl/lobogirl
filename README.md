@@ -2,6 +2,11 @@
   <img src="https://api.visitorbadge.io/api/visitors?path=reversecowgirl&label=fanpals&labelColor=%23000000&countColor=%23d65ea6&style=plastic" />
 </p>
 
+<p align="center">
+<img src="https://github.com/user-attachments/assets/cfd9d5fe-d912-47e5-915c-e65c93d5ded6" />
+</p>
+
+
  
 
 <p align="center"> 
