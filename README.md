@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://api.visitorbadge.io/api/visitors?path=reversecowgirl&label=fanpals&countColor=%2300ff9d&style=plastic" />
+  <img src="https://api.visitorbadge.io/api/visitors?path=reversecowgirl&label=gimplings&countColor=%2300ff9d&style=plastic" />
 </p>
 
 <p align="center">
