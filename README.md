@@ -11,7 +11,7 @@
 
 <p align="center"> 
   ⠀𓏲⠀solar⠀. . .
-⠀any⠀⏔⠀straight
+⠀any⠀⏔⠀slacker
 ⠀⠀15+⠀𝜗𓏲⠀pt
 ⠀⠀⠀artist && geek⠀( ´ཀ` )</p>
 
